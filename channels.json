@@ -34,5 +34,14 @@
     "full_description": "Весь матеріалъ въ дореформенной орѳографіи resistance — каналъ о русской исторіи и культурѣ. Мы предоставляемъ матеріалъ въ виде; очерковъ, стиховъ, и произведеній на дореформенной орѳографіи. Связь — @YMNITRUFEL",
     "verification": 2,
     "tags": ["история"]
+  },
+      {
+    "name": "Russian imperium",
+    "link": "https://t.me/nikuhoi4lololowkasizonsmonarxist",
+    "photo": "img/RussianImperium.jpg",
+    "short_description": "Монархический правый околоигровой и интеллектуалный канал.",
+    "full_description": "Монархический канал с интересными историческими фактами о любых эпохах.",
+    "verification": 2  ,
+    "tags": ["история"]
   }
 ]
